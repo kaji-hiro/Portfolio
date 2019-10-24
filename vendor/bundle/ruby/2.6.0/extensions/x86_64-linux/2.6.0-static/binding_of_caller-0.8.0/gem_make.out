@@ -1,0 +1,16 @@
+current directory: /home/h.kajiyama/portfolio/vendor/bundle/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/home/h.kajiyama/.rbenv/versions/2.6.5/bin/ruby -I /home/h.kajiyama/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20191024-8268-h56v6h.rb extconf.rb
+
+current directory: /home/h.kajiyama/portfolio/vendor/bundle/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: /home/h.kajiyama/portfolio/vendor/bundle/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /home/h.kajiyama/portfolio/vendor/bundle/ruby/2.6.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.

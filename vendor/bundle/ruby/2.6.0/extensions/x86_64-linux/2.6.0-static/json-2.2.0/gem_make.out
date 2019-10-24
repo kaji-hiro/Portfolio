@@ -1,0 +1,13 @@
+current directory: /home/h.kajiyama/portfolio/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+/home/h.kajiyama/.rbenv/versions/2.6.5/bin/ruby -I /home/h.kajiyama/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20191024-8268-zi40yz.rb extconf.rb
+creating Makefile
+
+current directory: /home/h.kajiyama/portfolio/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/h.kajiyama/portfolio/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: 'all' に対して行うべき事はありません.
+
+current directory: /home/h.kajiyama/portfolio/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
