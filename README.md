@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is Portfolio of H.Kajiyama.
+If you want to contact me, please go to access page.
 
-Things you may want to cover:
+Component of this site
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
+  2.6.5
+* Rails version
+  6.0.0
+* Development System
+  linux - fedora 30
+* Database
+  MySQL at Development
+  PostgreSQ at Production
+* Test Unit
+  Minitest
 * Services (job queues, cache servers, search engines, etc.)
-
+  Understand me, Recruit me
 * Deployment instructions
-
-* ...
+  heroku
