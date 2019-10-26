@@ -32,7 +32,6 @@ body{
     text-decoration: none;
     height: 100%;
     width: 10%;
-    vertical-align: center;
     color: #696969;
     text-align: center;
 
@@ -40,5 +39,10 @@ body{
       background-color: #696969;
       color: #c0c0c0;
     }
+  }
+
+  &-icon{
+    font-size: 30px;
+    margin-right: auto;
   }
 }
