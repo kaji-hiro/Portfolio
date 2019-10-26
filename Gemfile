@@ -7,8 +7,6 @@ ruby '2.6.5'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.0'
-# Use postgresql as the database for Active Record
-gem 'mysql2', '>= 0.4.4'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
@@ -55,6 +53,8 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
   gem 'foreman'
+  # Use postgresql as the database for Active Record
+  gem 'mysql2', '>= 0.4.4'
 end
 
 group :development do
