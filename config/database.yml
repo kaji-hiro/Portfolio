@@ -52,6 +52,3 @@ production:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  database: portfolio_production
-  username: portfolio
-  password: <%= ENV['PORTFOLIO_DATABASE_PASSWORD'] %>
