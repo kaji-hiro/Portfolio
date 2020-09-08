@@ -13,8 +13,8 @@ const panes = [
           <img class="ui medium circular image" alt="アイコン" src={Icon} />
         </Segment>
         <Segment>
-          Hiroaki Kajiyama<br>
-          2000年 3月 22日生まれ<br>
+          Hiroaki Kajiyama
+          2000年 3月 22日生まれ
           主な使用言語 Ruby,Ruby on Rails, Python, C, nim
         </Segment>
       </Segment.Group>
